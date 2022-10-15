@@ -11,6 +11,13 @@
 7. npm install react-router-dom
 8. <b>Components:</b> navbar, contact-list, view-contact, edit-contact, add-contact
 9. <b>Services :</b> Contact Services
+10. json server --> npm install json-server / json file -->db.json / package.json --> npm init --yes
+11. API's Request 
+    GET - GET
+    CREATE - POST
+    UPDATE - PUT
+    DELETE - DELETE
+
 
 Reference Links
 1. If you get a warning on react-scripts: https://bobbyhadz.com/blog/not-recognized-as-internal-or-external-command-react-scripts#:~:text=To%20solve%20the%20error%20%22react,your%20npm%20cache%20if%20necessary.&text=Copied!
