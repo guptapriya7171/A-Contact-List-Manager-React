@@ -19,7 +19,13 @@
     DELETE - DELETE
 
 
-Reference Links
+## Reference Links
 1. If you get a warning on react-scripts: https://bobbyhadz.com/blog/not-recognized-as-internal-or-external-command-react-scripts#:~:text=To%20solve%20the%20error%20%22react,your%20npm%20cache%20if%20necessary.&text=Copied!
 2. Ajax Font Awesome CDN: https://cdnjs.com/libraries/font-awesome
-3.
+
+## Images
+![Capture1](https://user-images.githubusercontent.com/96413187/196620089-5948091b-46ef-4f86-97cc-f68353610ab0.PNG)
+![Capture2](https://user-images.githubusercontent.com/96413187/196620100-80687507-6681-4d22-8248-1dcb77abae95.PNG)
+![Capture3](https://user-images.githubusercontent.com/96413187/196620114-32388710-50bf-44dc-9b27-f2df2388ea34.PNG)
+![Capture4](https://user-images.githubusercontent.com/96413187/196620126-3cff5707-872c-4d0e-8c48-956f689c6feb.PNG)
+![Capture5](https://user-images.githubusercontent.com/96413187/196620151-264e7440-2a25-4ecc-94c6-73ed577b1963.PNG)
