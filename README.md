@@ -1,4 +1,4 @@
-# A-Contact-List-Manager-React-
+# A-Contact-List-Manager-React ![element workflow](https://img.shields.io/badge/Front%20End-React-red)
 
 ## Commands Used And Steps Followed:
 1. npx create-react-app <i>_Project Name_</i>
