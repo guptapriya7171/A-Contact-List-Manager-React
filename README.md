@@ -1,18 +1,17 @@
 # A-Contact-List-Manager-React ![element workflow](https://img.shields.io/badge/Front%20End-React-red)
 
 ## Commands Used And Steps Followed:
-1. npx create-react-app <i>_Project Name_</i>
-2. npm install bootstrap
-3. npm i @fortawesome/fontawesome-free
-4.  Connect font awesome cdn link to a html page - index.html
+1. First create a react application using npx create-react-app <i>_Project Name_</i>
+2. This is the framework known bootstrap for styling the application use npm install bootstrap to access it in the react.
+3. To get an icon install font awesome framework using -npm i @fortawesome/fontawesome-free
+4. Add font awesome cdn link to a html page - index.html
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css" integrity="sha512-xh6O/CkQoPOWDdYTDqeRdPCVd1SpvCA9XXcUnZS2FmJNp1coAFzvtCN9BmamE+4aHK8yyUHUSCcJHgXloTyT2A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 5. import font awesome and bootstrap from a nodemodules in an index.js file.
-6. npm install axios
-7. npm install react-router-dom
+6. Here we want to perform CRUD operations so use npm install axios in the terminal.
+7. React Router DOM is the routing library to implement dynamic routing in a web app so use npm install react-router-dom
 8. <b>Components:</b> navbar, contact-list, view-contact, edit-contact, add-contact
-9. <b>Services :</b> Contact Services
-10. json server --> npm install json-server / json file -->db.json / package.json --> npm init --yes
-11. API's Request 
+9. Create a servoce provider using open source api contacts data - https://jsonplaceholder.typicode.com/users 
+10. API's Request 
     GET - GET
     CREATE - POST
     UPDATE - PUT
